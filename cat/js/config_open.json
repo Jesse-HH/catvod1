@@ -33,10 +33,10 @@
 {"key":"mimiju_open","name":"影视 | 迷迷剧","type":3,"api":"assets://js/mimiju_open.js"},
 {"key":"yjys_open","name":"影视 | 悠久","type":3,"api":"assets://js/yjys_open.js"},
 
-{"key":"wogg","name":"阿里 | 玩偶哥哥","type":3,"api":"assets://js/wogg.js","ext":"f54bf4782aef451ba0ff881a83ec7b6d"},
-{"key":"wobg_open","name":"阿里 | 玩偶表哥","type":3,"api":"assets://js/wobg_open.js","ext":"f54bf4782aef451ba0ff881a83ec7b6d"},
-{"key":"dovx_open","name":"阿里 | 七夜","type":3,"api":"assets://js/dovx_open.js","ext":"f54bf4782aef451ba0ff881a83ec7b6d"},
-{"key":"pansearch_open","name":"阿里 | 盘搜索","type":3,"api":"assets://js/pansearch_open.js","ext":"f54bf4782aef451ba0ff881a83ec7b6d"},
+{"key":"wogg","name":"阿里 | 玩偶哥哥","type":3,"api":"assets://js/wogg.js","ext":"f54bf478"},
+{"key":"wobg_open","name":"阿里 | 玩偶表哥","type":3,"api":"assets://js/wobg_open.js","ext":"f54bf4782aef451"},
+{"key":"dovx_open","name":"阿里 | 七夜","type":3,"api":"assets://js/dovx_open.js","ext":"f54bf4782aef451b"},
+{"key":"pansearch_open","name":"阿里 | 盘搜索","type":3,"api":"assets://js/pansearch_open.js","ext":"f54bf4782ae"},
 {"key":"funletu","name":"夸克 | 趣盘搜","type":3,"api":"assets://js/funletu.js","ext":"夸克cookie,可http"},
 
 {"key":"ys996_open","name":"影视 | 996","type":3,"api":"assets://js/ys996_open.js"},
